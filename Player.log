@@ -1,0 +1,1075 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 200 Series (ID=0x683d)
+    Vendor:   
+    VRAM:     1003 MB
+    Driver:   27.20.12033.1007
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.284 seconds
+<RI> Initializing input.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.464600 ms
+RimWorld 1.3.3117 rev669
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DBE5010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DA35D00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DCAA220.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DD94A40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DF74E90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C85A513030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DF97EC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DFA32D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DB9CE00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C85A02D9F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C85A04E010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DFA7EF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DFABD00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87DB52530.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001C87E42A750.dll
+[HugsLib] version 9.0.0
+[VanillaAchievementsExpanded] version 1.3.7862
+Extended Storage 0.0.0.0 - Harmony patches successful
+Biomes Map after Init: 3
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.635000 ms
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 13377.
+Total: 168.487700 ms (FindLiveObjects: 1.027800 ms CreateObjectMapping: 0.649800 ms MarkObjects: 166.657900 ms  DeleteObjects: 0.151600 ms)
+
+Loading game from file Eldarean's with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - UnlimitedHugs.HugsLib
+  - EdB.PrepareCarefully
+  - Fluffy.AnimalTab
+  - Fluffy.Blueprints
+  - georodin.setupcamp
+  - VanillaExpanded.VCEF
+  - warlocksforge.fishtraps
+  - Mlie.ExtendedStorage
+Loaded file (Map) is from version 1.3.3102 rev827, we are running version 1.3.3117 rev669. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Couldn't find exact match for backstory RoyalBastard3, using closest match RoyalBastard64 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Couldn't find exact match for backstory RoyalBastard3, using closest match RoyalBastard64 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Couldn't find exact match for backstory RoyalBastard3, using closest match RoyalBastard64 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Couldn't find exact match for backstory RoyalBastard3, using closest match RoyalBastard64 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19225.
+Total: 443.286000 ms (FindLiveObjects: 1.460700 ms CreateObjectMapping: 0.917700 ms MarkObjects: 440.820600 ms  DeleteObjects: 0.086400 ms)
+
+Deep-saving destroyed thing Shuttle66786 with saveDestroyedThings==false. label=shipThing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+steel slag chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+steel slag chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+steel slag chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+steel slag chunk: True
+granite chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+steel slag chunk: True
+granite chunk: True
+granite chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+steel slag chunk: True
+sandstone chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone: True
+sandstone: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+steel slag chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+compacted machinery: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+sandstone: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+sandstone: True
+sandstone: True
+sandstone: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+sandstone: True
+sandstone: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+granite: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+uranium ore: True
+uranium ore: True
+uranium ore: True
+uranium ore: True
+granite: True
+granite: True
+granite chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+uranium ore: True
+uranium ore: True
+uranium ore: True
+uranium ore: True
+granite: True
+granite: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+uranium ore: True
+uranium ore: True
+granite: True
+granite: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+uranium ore: True
+uranium ore: True
+granite: True
+granite: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite chunk: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+compacted machinery: True
+compacted machinery: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+compacted machinery: True
+compacted machinery: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+granite chunk: True
+granite chunk: True
+sandstone chunk: True
+sandstone chunk: True
+sandstone chunk: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite: True
+granite chunk: True
+Reached max messages limit. Stopping logging to avoid spam. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+granite chunk: True
